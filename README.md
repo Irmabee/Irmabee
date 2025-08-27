@@ -1,4 +1,4 @@
-# Irma Beslic - Educational  
+# Irma Beslic 
 
 Hi there, my name is Irma 👋  
 
@@ -12,10 +12,10 @@ Hi there, my name is Irma 👋
 
 ---
 
-This github is created for educational purpose. It contains exams and project requirements from my Bachelor in IT-Cybersecurity and also some personal projects.   
+This github was created for educational purpose. It contains exams and project requirements from my Bachelor in IT-Cybersecurity and also some personal projects.   
 
 
-## 🚀 Exams and projects
+## Exams and projects
 - [Kreativ Webprosjekt](https://github.com/Irmabee/Kreativ-Webprosjekt-Eksamen)
 - [Agile project](https://github.com/Irmabee/Volverine)
 
