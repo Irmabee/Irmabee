@@ -1,16 +1,26 @@
-## Hi there 👋
+# Irma Beslic - Educational  
 
-<!--
-**Irmabee/Irmabee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, my name is Irma 👋  
 
-Here are some ideas to get you started:
+- 🎓 Bachelordegree in IT- Cybersecurity - 2025.
+- 🔐 Interests: Security analytics, GRC, Cloud Security.
+- 🌍 From Oslo, Norway. Born in Sarajevo.
+- ⚡ Fun fact: I know how to operata a Dino 210Xtb II. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/irma-beslic) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Irmabee)  
+
+---
+
+This github is created for educational purpose. It contains exams and project requirements from my Bachelor in IT-Cybersecurity and also some personal projects.   
+
+
+## 🚀 Exams and projects
+- [Kreativ Webprosjekt](https://github.com/Irmabee/Kreativ-Webprosjekt-Eksamen)
+- [Agile project](https://github.com/Irmabee/Volverine)
+
+## 📊 GitHub-statistic
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Irmabee&show_icons=true&theme=radical)
+
+
+
