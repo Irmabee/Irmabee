@@ -17,7 +17,7 @@ This github was created for educational purpose. It contains exams and project r
 
 ## Exams and projects
 - [Kreativ Webprosjekt](https://github.com/Irmabee/Kreativ-Webprosjekt-Eksamen)
-- [Agile project](https://github.com/Irmabee/Volverine)
+- [Agile project](under construction)
 
 ## 📊 GitHub-statistic
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Irmabee&show_icons=true&theme=radical)
