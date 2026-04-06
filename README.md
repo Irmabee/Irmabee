@@ -9,7 +9,8 @@ Hi there, my name is Irma 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/irma-beslic) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Irmabee)  
-[![GitHub Organization](https://github.com/Irmabee-Labs) 
+[![GitHub](https://github.com/Irmabee-Labs) 
+![Public Repos](...)
 
 ---
 
