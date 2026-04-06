@@ -14,12 +14,12 @@ Hi there, my name is Irma 👋
 
 ---
 
-This github was created for educational purpose. It contains exams and project requirements from my Bachelor in IT-Cybersecurity and also some personal projects.   
+This github was created for educational purpose. It contains exams and project requirements from my Bachelor in IT-Cybersecurity, courses from OsloMet - Cloud Based Services and Operations and also some personal projects.   
 
 
-## Exams and projects
-- [Kreativ Webprosjekt](https://github.com/Irmabee/Kreativ-Webprosjekt-Eksamen)
-- [Agile project](https://)
+## You can find my repos here 👇
+[IrmaBee-Labs](https://github.com/Irmabee-Labs) 
+
 
 ## 📊 GitHub-statistic
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Irmabee&show_icons=true&theme=radical)
