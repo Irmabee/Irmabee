@@ -8,9 +8,9 @@ Hi there, my name is Irma 👋
 - ⚡ Fun fact: I know how to operate a Dino 210Xtb II.  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/irma-beslic) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Irmabee)  
-[![GitHub](https://github.com/Irmabee-Labs) 
-![Public Repos](...)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Irmabee)   
+
+
 
 ---
 
